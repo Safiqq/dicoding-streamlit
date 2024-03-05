@@ -1,0 +1,5 @@
+matplotlib==3.4
+numpy
+pandas
+seaborn==0.13.2
+streamlit
